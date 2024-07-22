@@ -1,0 +1,45 @@
+#company-name {
+	text-decoration: underline;
+	text-underline-style: solid;
+	text-underline-mode: continuous;
+	font-family: -webkit-body;
+}
+
+#schedule-table > thead {
+	background-color: #0D5CAB;
+	border-bottom-style: solid;
+	border-color: #3F3F3F;
+}
+
+#schedule-table > thead > tr {
+	border-style: solid;
+	border-width: medium;
+	border-color: #3F3F3F;
+}
+
+#schedule-table > thead > tr > th {
+	border-style: solid;
+	border-width: thin;
+	border-color: #3F3F3F;
+	color: #000000;
+	font-weight: bolder;
+}
+
+#schedule-table > tbody {
+	border-style: solid;
+	border-width: medium;
+	border-color: #3F3F3F;
+}
+
+#schedule-table > tbody > tr {
+	border-style: solid;
+	border-width: medium;
+	border-color: #3F3F3F;
+}
+
+#schedule-table > tbody > tr > td {
+	border-style: solid;
+	border-width: thin;
+	border-color: #3F3F3F;
+	color: #000000;
+}
